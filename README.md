@@ -9,5 +9,3 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/malviles/Linear_and_logistic_regression/blob/main/SimpleLinearRegression.ipynb)
-
-!pip -q install -r https://raw.githubusercontent.com/malviles/Linear_and_logistic_regression/blob/main/requirements.txt
